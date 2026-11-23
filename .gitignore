@@ -1,1 +1,3 @@
 /benchmarks/profiles/
+__pycache__/
+*.py[cod]
